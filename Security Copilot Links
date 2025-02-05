@@ -1,0 +1,19 @@
+Security Copilot Embedded
+Microsoft Defender: https://learn.microsoft.com/en-us/defender-xdr/security-copilot-in-microsoft-365-defender
+Purview: https://learn.microsoft.com/en-us/purview/copilot-in-purview-overview
+Entra ID: https://learn.microsoft.com/en-us/entra/fundamentals/copilot-security-entra
+Intune/MDM: https://learn.microsoft.com/en-us/mem/intune/copilot/security-copilot
+
+Security Copilot Repo
+https://github.com/Azure/Security-Copilot
+
+Prompting and Promptbooks
+https://learn.microsoft.com/en-us/copilot/security/prompting-security-copilot
+https://learn.microsoft.com/en-us/copilot/security/build-promptbooks
+https://learn.microsoft.com/en-us/copilot/security/prompting-tips
+
+Plugins
+https://learn.microsoft.com/en-us/copilot/security/custom-plugins
+
+Blogs
+https://techcommunity.microsoft.com/category/security-copilot/blog/securitycopilotblog
